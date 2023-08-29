@@ -3,7 +3,7 @@
   "private": true,
   "author": "Goldenwere",
   "version": "0.0.1",
-  "main": "",
-  "types": "index.d.ts",
+  "main": "./index.d.ts",
+  "types": "./index.d.ts",
   "description": "Shared types package for the Goldenwere gallery template and related projects"
 }
