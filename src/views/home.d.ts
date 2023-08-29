@@ -1,4 +1,4 @@
-import { type ArtWork, type SocialContact } from '@/shared'
+import { type ArtWork, type SocialContact } from '../shared'
 
 /**
  * Modal for home route data

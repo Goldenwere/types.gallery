@@ -1,4 +1,4 @@
-import { type ContractTerm } from '@/shared'
+import { type ContractTerm } from '../shared'
 
 /**
  * Model for TOS route data

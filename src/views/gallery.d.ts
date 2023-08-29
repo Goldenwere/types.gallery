@@ -1,4 +1,4 @@
-import { type ArtWork, type Folder } from '@/shared'
+import { type ArtWork, type Folder } from '../shared'
 
 /**
  * Modal for gallery route data

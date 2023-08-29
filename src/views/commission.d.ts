@@ -1,4 +1,4 @@
-import { type CommissionType } from '@/shared'
+import { type CommissionType } from '../shared'
 
 /**
  * Modal for commission route data

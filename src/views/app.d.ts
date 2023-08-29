@@ -1,4 +1,4 @@
-import { type AppTheme, type DirectoryRoute } from '@/shared'
+import { type AppTheme, type DirectoryRoute } from '../shared'
 
 /**
  * Modal for site data
