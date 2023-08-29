@@ -1,0 +1,13 @@
+{
+  "name": "@goldenwere/types.gallery",
+  "private": true,
+  "author": "Goldenwere",
+  "version": "0.0.1",
+  "description": "Shared types package for the Goldenwere gallery template and related projects",
+  "type": "module",
+  "types": "./src/index.ts",
+  "main": "./src/index.ts",
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
